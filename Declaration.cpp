@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int a = 18; // Decalaration of Datatype : Datatype_Name;
+    int a = 18; // Decalaration of Datatype --> Datatype_Name;
     long largeNumber = 1234567890;
     float b = 19.33;
     double pi = 3.141592653589793;
