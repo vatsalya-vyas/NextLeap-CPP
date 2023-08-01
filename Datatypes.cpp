@@ -8,7 +8,7 @@ int main()
     // Built in Data types :
 
     int a;    // Integer 2 or 4 bytes Stores whole numbers, without decimals
-    float b;  // Stores 4 bytes of fractional numbers,  containing  one  or  more  decimals.
+    float b;  // Stores 4 bytes of fractional numbers,  containing  one  or  more  decimals
     char c;   //  Stores a single character/letter/number, or ASCII values of 1 byte
     double d; // Stores 8 bytes fractional  numbers,  containing  one  or  more  decimals
     bool e;   // Stores true or false values of 1 bytes
