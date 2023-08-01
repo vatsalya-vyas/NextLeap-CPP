@@ -5,7 +5,7 @@ int main()
 {
     int a, b, c;
     cout << "Enter the value of a : ";
-    cin >> a; // Taking input from the user
+    cin >> a; // Taking input from the user.
 
     cout << "Enter the value of b : "; // Output
     cin >> b;                          // Input
