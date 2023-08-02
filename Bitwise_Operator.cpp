@@ -7,6 +7,7 @@ int main()
     // cout << (a & b); //Bitwise AND
     // cout << (a | b); // Bitwise OR
     // '<<' Left Shift, '>>' Right Shift
+
     cout << INT_MAX << endl;
     int a = 2147483647;
     int b = a << 1;
