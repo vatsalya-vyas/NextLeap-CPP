@@ -11,6 +11,6 @@ int main()
     cout << (a >= b) << endl; // Greater than or equal to
     cout << (a <= b) << endl; // Less than or equal to
     cout << (a == b) << endl; // Equal to
-    cout << (a != b) << endl; // Not Equal to
+    cout << (a != b) << endl; // Not equal to
     return 0;
 }
