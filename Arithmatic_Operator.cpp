@@ -8,7 +8,7 @@ int main()
     // float c = a * b;
     // cout << "The sum is : " << c << endl;
 
-    // int ans = 5 * 2 / 4; // Associativity : Left => Right
+    // int ans = 5 * 2 / 4; // Associativity : Left ==> Right
     // int ans = 5 * (2 / 4); // Higest Precedence of the operator will execute first
 
     int a = 5, b = 3;
