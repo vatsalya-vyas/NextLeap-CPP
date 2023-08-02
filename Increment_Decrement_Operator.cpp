@@ -9,7 +9,7 @@ int main()
     int d = c--; // d=9, c=8
     cout << a << " " << ++b << " " << c++ << " " << d;
     // cout << a << " " << b;
-    // int b = ++a; //Pre-Increment
+    // int b = ++a; // Pre-Increment
     // int b = a++; // Post-Increment
     // cout << a++ << endl;
     // cout << --a << endl;
