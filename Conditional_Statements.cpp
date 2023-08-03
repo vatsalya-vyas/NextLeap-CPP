@@ -55,7 +55,7 @@ int main()
     //         cout << z;
     // }
 
-    // 5) Ternary Operator
+    // 5) Ternary Operator : It is a short hand if else statement  (condition) ? true : false
 
     int marks;
     cout << "Enter the Marks : ";
