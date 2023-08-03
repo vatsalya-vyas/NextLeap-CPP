@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    // Switch Statements.
     int day;
     cout << "Enter the day : ";
     cin >> day;
