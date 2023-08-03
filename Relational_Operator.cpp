@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    // Relational Operators
+    // Relational Operators.
 
     int a = 5, b = 6;
     cout << (a > b) << endl;  // Greater than
