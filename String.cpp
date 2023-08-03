@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-    // string s;
-    // cin >> s;        // Stops on seeing a space
+    // string s; // Declaration of string
+    // cin >> s; // Stops on seeing a space
     // getline(cin, s); // It dosen't stop after seeing a space it will continue
     // cout << s << endl;
     // cout << s.length(); // Number of characters present in the string
