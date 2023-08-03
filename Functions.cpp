@@ -7,7 +7,7 @@ int main()             // Start of the main function
 
     return 0;
 }
-int sum(int a, int b) // Definition
+int sum(int a, int b) // Definition of the function
 {
     return a + b;
 }
