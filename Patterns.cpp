@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    // Solid rectangular star pattern:
+    // Solid rectangular star pattern :
 
     // int n = 3;
     // for (int i = 1; i <= n; ++i)
