@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    // Syntax of while loop
     int i = 1;
     while (i <= 10)
     {
