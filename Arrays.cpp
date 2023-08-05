@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    // int marks[] = {23, 45, 56, 89};
     // int num[4] = {1, 3, 4, 5};
     // num[0] = 2;
     // cout << num[0];
