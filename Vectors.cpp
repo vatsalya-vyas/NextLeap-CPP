@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    // Syntax of vectors
     vector<int> num;
     num = {1, 2, 3, 4, 5};
     cout << num.size() << endl;
