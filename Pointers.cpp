@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    // Pointers - Data types which holds the address of other data types
     int a = 18;
     int *b = &a;
     cout << "The address of a is : " << &a << endl;
