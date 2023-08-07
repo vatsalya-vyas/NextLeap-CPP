@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
     // Syntax of while loop
+    // while(condition)
     int i = 1;
     while (i <= 10)
     {
