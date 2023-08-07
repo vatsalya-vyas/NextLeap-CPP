@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    // 1D Array
     int arr[5] = {12, 28, 34, 34, 34};
     int n = sizeof(arr) / sizeof(arr[0]);
     cout << "The size of an array is : " << n << endl;
