@@ -2,7 +2,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main()
-{ // Start of the main function
+{
+    // Start of the main function
     list<int> li;
     // Insertion (at end)
     li.push_back(10);
