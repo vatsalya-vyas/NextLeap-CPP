@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    // char str[100] = "Hello";
     // string s; // Declaration of string
     // cin >> s; // Stops on seeing a space
     // getline(cin, s); // It dosen't stop after seeing a space it will continue
