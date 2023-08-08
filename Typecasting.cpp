@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+
     // Type-casting : Changing the Datatype of the variable
 
     int a = 5;    // Changing the Datatype
