@@ -2,7 +2,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main()
-{ // Start of the main function
+{
+    // Start of the main function
     map<int, string> m;
     // Insertion  name[key] = value
     m[101] = "ABC";
