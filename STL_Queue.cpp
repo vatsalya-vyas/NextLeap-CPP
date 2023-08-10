@@ -2,7 +2,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main()
-{ // Start of the main function
+{ 
+    // Start of the main function
     queue<int> my_queue;
     my_queue.push(10);
     my_queue.push(15);
