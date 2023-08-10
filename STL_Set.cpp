@@ -2,7 +2,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main()
-{ // Start of the main function
+{
+
+    // Start of the main function
     set<int> s;
     // Insertion
     s.insert(10);
