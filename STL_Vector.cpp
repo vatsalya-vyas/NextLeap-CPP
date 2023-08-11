@@ -2,7 +2,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main()
-{ // Start of the main function
+{
+    // Start of the main function
     vector<int> vec;
     // Insertion (at end)
     vec.push_back(10);
