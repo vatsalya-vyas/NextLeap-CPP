@@ -5,6 +5,7 @@ class Student
 {
 public:
     int rollno; // Public Attribute
+
     // int rollno; // Private Attribute
     // void print()
     // { // Private Function
