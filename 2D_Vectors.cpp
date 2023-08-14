@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
     // 2D Vector
+    // Syntax of 2D Vector
     vector<vector<int>> vec = {{1, 2}, {4, 7}, {0, 8, 9}, {6, 1, 4, 3}};
     for (int i = 0; i < vec.size(); i++)
     { // vec.size() is the number of rows
