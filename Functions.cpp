@@ -11,3 +11,5 @@ int sum(int a, int b) // Definition of the function
 {
     return a + b;
 }
+
+// Function : A function is a block of code that performs a specific task.
