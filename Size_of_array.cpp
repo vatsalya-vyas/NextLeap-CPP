@@ -14,3 +14,5 @@ int main()
     }
     return 0;
 }
+
+// Array is a collection of similar data types.
