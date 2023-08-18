@@ -89,3 +89,5 @@ int main()
     int max_value = *max_element(li.begin(), li.end());
     cout << "Maximum Value is " << max_value << endl;
 }
+
+// Linked List : STL (Standard Template Library) is a library of container classes, algorithms, and iterators. It is a generalized library and so, its components are parameterized. A working knowledge of template classes is a prerequisite for working with STL.
