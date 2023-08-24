@@ -1,10 +1,10 @@
 #include <iostream>
-#include <cmath>
+#include <cmath> // This is the math library
 using namespace std;
 
 int main()
 {
-    // cout << M_PI; // To find the value of Pi
+    // cout << M_PI; // To find the value of PI
     // int a = 5, b = 7, c = 1;
     // cout << "The Min value is : " << min(a, b) << endl;
     // cout << "The Max value is : " << max(a, b) << endl;
