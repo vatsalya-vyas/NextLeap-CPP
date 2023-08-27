@@ -16,7 +16,7 @@ int main()
     //     cout << endl;
     // }
 
-    // Hollow rectangular star pattern:
+    // Hollow rectangular star pattern :
     // int n = 4, m = 6;
 
     // for (int i = 1; i <= n; ++i)
@@ -35,7 +35,7 @@ int main()
     //     cout << endl;
     // }
 
-    // Half Pyramid Star Pattern
+    // Half Pyramid Star Pattern :
 
     // int n = 5;
     // for (int i = n; i >= 1; --i)
