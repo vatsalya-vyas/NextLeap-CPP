@@ -1,4 +1,3 @@
-//!  INHERITANCE
 #include <iostream>  //Header File
 using namespace std; //**********INHERITANCE***********//
 class A              // Parent Class
