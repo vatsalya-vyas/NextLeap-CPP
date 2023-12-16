@@ -2,7 +2,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main()
-{ // Start of the main function
+{ 
+    // Start of the main function
     vector<int> vec = {2, 6, 4};
     cout << "Size = " << vec.size() << endl;
     for (int i = 0; i < vec.size(); i++)
