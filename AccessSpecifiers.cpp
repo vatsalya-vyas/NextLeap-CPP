@@ -4,7 +4,9 @@ using namespace std;
 class Student
 {
 public:
-    int rollno; // Public Attribute
+    int rollno; 
+    
+    // Public Attribute
 
     // int rollno; // Private Attribute
     // void print()
