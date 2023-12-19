@@ -87,7 +87,7 @@ int main()
     //     cout << endl;
     // }
 
-    // Diamond Shaped star
+    // Diamond Shaped star pattern 
 
     int i, j, k, n;
     cout << "Enter the no rows : ";
